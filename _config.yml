@@ -1,0 +1,17 @@
+title: CakePHP Brasil
+header-img: assets/img/home-bg.jpg
+email: contato@cakephpbrasil.com.br
+copyright_name: CakePHP Brasil
+description: "CakePHP Brasil é uma comunidade de desenvolvedores apaixonados pelo framework PHP de desenvolvimento rápido."
+url: "http://cakephpbrasil.com.br"
+baseurl: ""
+github_username:  CakePHPBrasil
+email_username:  contato@cakephpbrasil.com.br
+
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate]
